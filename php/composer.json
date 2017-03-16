@@ -1,0 +1,13 @@
+{
+    "name": "fly/gist",
+    "authors": [
+        {
+            "name": "Leon",
+            "email": "yunjie.jiang@yourdream.cc"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "shark/simple_html_dom": "dev-master"
+    }
+}
